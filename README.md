@@ -12,17 +12,17 @@
   
   🌱 **I’m currently learning:** Flutter App development
   
-  👯 **I’m looking to collaborate on:** Enter your project name and info
+  👯 **I’m looking to collaborate on:** Large and Heavy team based projects
   
-  🤔 **I’m looking for help with:** Your project here
+  🤔 **I’m looking for help with:** Team based and modern apps
   
-  💬 **Ask me about:** Collaboration, Tech Support
+  💬 **Ask me about:** Collaboration, Tech Support 
   
-  📫 **How to reach me:** Enter your email here
+  📫 **How to reach me:** tameerahmedkhyber@gmail.com
   
   😄 **Pronouns:** Tameer Khyber
   
-  ⚡ **Fun fact:** I Love Tech and Tech Love Me
+  ⚡ **Fun fact:** I am using darkmode because light attract bugs...😄
 
  </div>
 <div align="center"> 
